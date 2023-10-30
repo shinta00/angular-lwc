@@ -15,7 +15,6 @@
     <tabs>Angular_Custom_Element</tabs>
     <tabs>Angular_iframe</tabs>
     <uiType>Lightning</uiType>
-    <utilityBar>Angular_Integration_UtilityBar</utilityBar>
     <workspaceConfig>
         <mappings>
             <tab>Angular_Custom_Element</tab>
