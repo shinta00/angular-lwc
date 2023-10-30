@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#0070D2</headerColor>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
+    <label>Angular Integration</label>
+    <navType>Console</navType>
+    <tabs>Html_iframe</tabs>
+    <tabs>Angular_Custom_Element</tabs>
+    <tabs>Angular_iframe</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>Angular_Integration_UtilityBar</utilityBar>
+    <workspaceConfig>
+        <mappings>
+            <tab>Angular_Custom_Element</tab>
+        </mappings>
+        <mappings>
+            <tab>Angular_iframe</tab>
+        </mappings>
+        <mappings>
+            <tab>Html_iframe</tab>
+        </mappings>
+    </workspaceConfig>
+</CustomApplication>

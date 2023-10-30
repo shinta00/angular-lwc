@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>iframe_html_resource</members>
+        <members>custom_element_angular_resource</members>
+        <members>iframe_angular_resource</members>
+        <name>StaticResource</name>
+    </types>
+        <types>
+        <members>custom_element_angular</members>
+        <members>iframe_html</members>
+        <members>iframe_angular</members>
+        <name>LightningComponentBundle</name>
+	</types>
+	<types>
+        <members>ContactControler</members>
+        <name>ApexClass</name>
+	</types>
+	<types>
+        <members>Html_iframe</members>
+        <members>Angular_Custom_Element</members>
+        <members>Angular_iframe</members>
+        <name>FlexiPage</name>
+	</types>
+	<types>
+        <members>angular_integration</members>
+        <name>CustomApplication</name>
+	</types>
+	<types>
+        <members>Admin</members>
+        <name>Profile</name>
+	</types>
+    <version>58.0</version>
+</Package>
