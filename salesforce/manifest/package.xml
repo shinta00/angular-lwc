@@ -4,12 +4,14 @@
         <members>iframe_html_resource</members>
         <members>custom_element_angular_resource</members>
         <members>iframe_angular_resource</members>
+        <members>iframe_react_resource</members>
         <name>StaticResource</name>
     </types>
-	<types>
+        <types>
         <members>custom_element_angular</members>
         <members>iframe_html</members>
         <members>iframe_angular</members>
+        <members>iframe_react</members>
         <name>LightningComponentBundle</name>
 	</types>
 	<types>
@@ -20,6 +22,7 @@
         <members>Html_iframe</members>
         <members>Angular_Custom_Element</members>
         <members>Angular_iframe</members>
+        <members>React_iframe</members>
         <name>FlexiPage</name>
 	</types>
 	<types>
@@ -34,6 +37,7 @@
         <members>Html_iframe</members>
         <members>Angular_Custom_Element</members>
         <members>Angular_iframe</members>
+        <members>React_iframe</members>
         <name>CustomTab</name>
 	</types>
     <version>58.0</version>
