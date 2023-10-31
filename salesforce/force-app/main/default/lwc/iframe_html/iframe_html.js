@@ -7,7 +7,6 @@ export default class Iframe_html extends LightningElement {
     urlStatic = iframe_html_resource + '/iframe_html_resource.html';
 
     connectedCallback(){
-        console.log('-----------------------------------------')
         const that = this;
         window.addEventListener('message', function(event) {
             if(event.data == 'getData'){
