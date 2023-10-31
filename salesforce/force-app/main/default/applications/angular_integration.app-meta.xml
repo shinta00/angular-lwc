@@ -14,6 +14,7 @@
     <tabs>Html_iframe</tabs>
     <tabs>Angular_Custom_Element</tabs>
     <tabs>Angular_iframe</tabs>
+    <tabs>React_iframe</tabs>
     <uiType>Lightning</uiType>
     <workspaceConfig>
         <mappings>
@@ -24,6 +25,9 @@
         </mappings>
         <mappings>
             <tab>Html_iframe</tab>
+        </mappings>
+        <mappings>
+            <tab>React_iframe</tab>
         </mappings>
     </workspaceConfig>
 </CustomApplication>
